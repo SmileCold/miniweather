@@ -1,2 +1,2 @@
-# mini0weather
+# miniweather
 A simple weather android software.
